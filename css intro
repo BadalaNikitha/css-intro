@@ -1,0 +1,18 @@
+A selector is a pattern used in CSS to target HTML elements you want to style.
+<p>Hello World!</p>
+CSS:-
+  p {
+  color: red;
+}
+Here, p is the selector. It selects all <p> elements and makes their text red.
+The main types of CSS selectors are:
+
+Element / Type Selector – selects elements by their tag name (e.g., p, div).
+
+Class Selector – selects elements by class (e.g., .classname).
+
+ID Selector – selects an element by its ID (e.g., #idname).
+
+Universal Selector – selects all elements (*).
+
+Group Selector – selects multiple elements together (e.g., h1, p, div).
